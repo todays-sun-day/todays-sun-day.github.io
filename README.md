@@ -1,9 +1,7 @@
-# SunA Kim | Android Developer
-
 소재부품 연구개발자로 일하다 게임을 직접 만들고 싶어 개발을 시작했습니다.
 Kotlin을 독학하여 위젯 앱을 출시하고, 현재 우아한테크코스에서 공부하고 있습니다.
 
-📧 178suna@gmail.com | [GitHub](https://github.com/todays-sun-day)
+📧 178suna@gmail.com
 
 **Android** · Kotlin · Jetpack Compose · Jetpack Glance · Compose Multiplatform  
 **Tools** · Android Studio · Git · GitHub
