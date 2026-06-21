@@ -12,7 +12,7 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 ## Projects
 
 ### who made this - Slack 이모지 제작 도구 [우테코 제1회 테코톤 3위]
-> 우아한테크코스 해커톤 · 3인 팀 프로젝트 · 2026.05.22 · [우테코 공식 뉴스레터 소개](https://maily.so/wooteco.newsletter/posts/1gz2egkwz3q) · [GitHub](https://github.com/3S2-HSB/who-made-this)
+> 우아한테크코스 해커톤 · 3인 팀 프로젝트 · 2026.05.22 · [우테코 공식 뉴스레터 소개](https://maily.so/wooteco.newsletter/posts/1gz2egkwz3q) · [사이트 바로가기](https://3s2-hsb.github.io/who-made-this/)
 
 - Slack 이모지를 몇 번의 클릭만으로 만들 수 있는 웹앱, 본인이 제안한 아이디어로 시작
 - 해커톤 당일 4시간이라는 짧은 제한 시간 안에 완성해야 해서 Gemini Canvas를 선택해 빠르게 프로토타입 구현
