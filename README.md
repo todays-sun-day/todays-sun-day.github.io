@@ -1,32 +1,46 @@
 소재부품 연구개발자로 일하다 게임을 직접 만들고 싶어 개발을 시작했습니다.
-Kotlin을 독학하여 위젯 앱을 출시하고, 현재 우아한테크코스에서 공부하고 있습니다.
+Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같은 AI 도구를 업무에 맞게 활용하는 편입니다. 현재 우아한테크코스에서 공부하고 있습니다.
 
 📧 178suna@gmail.com
 
 **Android** · Kotlin · Jetpack Compose · Jetpack Glance · Compose Multiplatform  
+**AI 코딩 도구** · Claude Code · CodeRabbit  
 **Tools** · Android Studio · Git · GitHub
 
 ---
 
 ## Projects
 
+### #0 who made this - Slack 이모지 제작 도구 [우테코 제1회 테코톤 3위]
+> 우아한테크코스 해커톤 · 3인 팀 프로젝트 · 2026.06 (4시간) · [우테코 공식 뉴스레터 소개](https://maily.so/wooteco.newsletter/posts/1gz2egkwz3q) · [사이트 바로 가기](https://3s2-hsb.github.io/who-made-this/)
+
+- Slack 이모지를 몇 번의 클릭만으로 만들 수 있는 웹앱, 본인이 제안한 아이디어로 시작
+- 4시간이라는 짧은 제한 시간 안에 완성해야 해서 Gemini Canvas를 선택해 빠르게 프로토타입 구현
+- 우아한테크코스 공식 뉴스레터에 3위 수상작으로 소개됨
+
+`Gemini Canvas` / `Rapid Prototyping`
+
+---
+
 ### #1 위젯 버디 - 위젯으로 귀여운 펫 키우기
 > 개인 프로젝트 · 2025.11.05 – 2025.11.24 (3주) · [Play Store 출시](https://play.google.com/store/apps/details?id=com.starterkim.widgetbuddy)
 
 - 홈 화면 위젯으로 귀여운 펫을 키우는 Android 앱 — Kotlin 독학 후 첫 출시작
 - Jetpack Glance API를 활용해 위젯 상태 관리 및 생명주기 직접 구현
-- Play Store 배포·운영, 사용자 피드백 기반 업데이트 사이클 경험
+- Doze 모드로 인한 WorkManager 주기 작업 지연 문제를 타임스탬프 기반 경과 시간 계산 로직으로 해결
+- Claude Code로 초기 개발과 리팩토링 진행, Play Store 배포·운영, 사용자 피드백 기반 업데이트 사이클 경험
 
 `Kotlin` / `Jetpack Compose` / `Jetpack Glance` / `Android Studio`
 
 ---
 
 ### #2 반려동물 IoT 모니터링 앱
-> 우아한테크코스 레벨2 팀 프로젝트 · 2026.05.28 – 현재
+> 우아한테크코스 레벨2 팀 프로젝트 · 2026.05.28 – 2026.06.19 (4주)
 
-- 아두이노 기기가 강아지 행동(소변·대변·올라타기)을 감지 → 서버 전송 → 앱 기록
-- Android 앱 및 CMP UI 담당 개발
-- Compose Multiplatform(CMP) 적용으로 크로스플랫폼 UI 구성 경험
+- 반려인 인터뷰로 배변 패턴 추적 불편을 확인하는 데서 기획을 시작, 다이소 부품으로 빠르게 프로토타입 검증
+- ESP32 센서가 강아지 행동(소변·대변·올라타기)을 감지해 서버로 전송, 앱에서 실시간 기록 확인
+- Android 앱 및 CMP UI 담당 개발, Ktor Client·Supabase로 서버 연동, MVVM 구조 설계
+- Claude Code 활용 개발, 하드웨어-서버-앱 간 데이터 흐름을 팀원과 설계해 안정적인 푸시 알림 구현
 
 `Kotlin` / `Compose Multiplatform` / `REST API (Ktor Client, Supabase)` / `MVVM with Repository Pattern`
 
