@@ -20,6 +20,8 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Gemini Canvas` / `Rapid Prototyping`
 
+<img width="750" height="407" alt="image" src="https://github.com/user-attachments/assets/367fc3bc-39db-48ce-9aad-dc1ea1d2fef8" />
+
 ---
 
 ### #1 위젯 버디 - 위젯으로 귀여운 펫 키우기
@@ -32,10 +34,18 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Kotlin` / `Jetpack Compose` / `Jetpack Glance` / `Android Studio`
 
+| 1. 알 부화 및 탄생 | 2. 실시간 상호작용 (밥주기) |
+| :---: | :---: |
+| <img width="220" alt="demo_hatch" src="https://github.com/user-attachments/assets/257024d2-2c5c-4e57-956f-0b76983b3cc4" /> | <img width="220" alt="demo_feedback" src="https://github.com/user-attachments/assets/dec01fb0-ef3b-47ae-a3df-6195237d113e" /> |
+
+| 3. 시간의 흐름에 따른 상태 변화 | 4. 메인 앱 (펫의 방 & 꾸미기) |
+| :---: | :---: |
+| <img width="220" alt="demo_passive_update" src="https://github.com/user-attachments/assets/d9b0780b-e30c-433a-93c7-455051333f8d" /> | <img width="220" alt="demo_main_app" src="https://github.com/user-attachments/assets/3f9f25bc-aa9a-4e49-afda-e3dbe8801889" /> |
+
 ---
 
 ### #2 반려동물 IoT 모니터링 앱
-> 우아한테크코스 레벨2 팀 프로젝트 · 2026.05.28 – 2026.06.19
+> 우아한테크코스 레벨2 팀 프로젝트 · 2026.05.28 – 2026.06.19 (4주)
 
 - 반려인 인터뷰로 배변 패턴 추적 불편을 확인하는 데서 기획을 시작, 다이소 부품으로 빠르게 프로토타입 검증
 - ESP32 센서가 강아지 행동(소변·대변·올라타기)을 감지해 서버로 전송, 앱에서 실시간 기록 확인
@@ -43,6 +53,14 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 - Claude Code 활용 개발, 하드웨어-서버-앱 간 데이터 흐름을 팀원과 설계해 안정적인 푸시 알림 구현
 
 `Kotlin` / `Compose Multiplatform` / `REST API (Ktor Client, Supabase)` / `MVVM with Repository Pattern`
+
+| 기기 등록 | 홈 화면 | 기록 목록 |
+|---|---|---|
+| <img width="180" height="405" alt="image" src="https://github.com/user-attachments/assets/be86ff42-e82d-4001-be78-5f27f3b29518" /> | <img width="180" height="405" alt="image" src="https://github.com/user-attachments/assets/df6c3fb1-e262-45e0-b884-5b0dba2ca530" /> | <img width="180" height="405" alt="image" src="https://github.com/user-attachments/assets/99a2d338-ff9a-46aa-986b-09ea4b753841" /> |
+
+| 아두이노 기기 시연 | 푸시 알림 |
+| --- | --- |
+| <img width="4000" height="2252" alt="image" src="https://github.com/user-attachments/assets/83076804-f387-4e57-a8df-4e8a7d3ba86e" /> | <img width="1440" height="1041" alt="image" src="https://github.com/user-attachments/assets/99c64a08-4b6e-4f77-ae76-1d34f47d5170" /> |
 
 ---
 
@@ -54,6 +72,8 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 - 기술과 예술적 감각을 동시에 요구하는 아나모픽 기법의 시각적 연출 경험
 
 `Unity` / `C#` / `Blender` / `MadMapper` / `Meshy`
+
+<img width="445" height="330" alt="image" src="https://github.com/user-attachments/assets/d3023566-fda3-44fb-8536-aebcd8032deb" />
 
 ---
 
@@ -67,6 +87,8 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Unity` / `C#` / `UGS` / `Netcode for GameObjects` / `Vivox`
 
+<img width="575" height="330" alt="image" src="https://github.com/user-attachments/assets/b1bbe484-2e41-4fe7-9fbc-deeb9024ae6c" />
+
 ---
 
 ### #5 오버워치 '정켄슈타인의 복수' 모바일 팬게임
@@ -77,6 +99,8 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 - 적·투사체 Dictionary 기반 관리로 확장성 있는 구조 설계
 
 `Unity` / `C#` / `PlayFab` / `Object Pooling`
+
+<img width="700" height="325" alt="image" src="https://github.com/user-attachments/assets/7570031f-5d76-4b68-9986-2bf1e7d5886b" />
 
 ---
 
