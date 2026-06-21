@@ -11,11 +11,11 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 ## Projects
 
-### #0 who made this - Slack 이모지 제작 도구 [우테코 제1회 테코톤 3위]
-> 우아한테크코스 해커톤 · 3인 팀 프로젝트 · 2026.06 (4시간) · [우테코 공식 뉴스레터 소개](https://maily.so/wooteco.newsletter/posts/1gz2egkwz3q) · [사이트 바로 가기](https://3s2-hsb.github.io/who-made-this/)
+### who made this - Slack 이모지 제작 도구 [우테코 제1회 테코톤 3위]
+> 우아한테크코스 해커톤 · 3인 팀 프로젝트 · 2026.05.22 · [우테코 공식 뉴스레터 소개](https://maily.so/wooteco.newsletter/posts/1gz2egkwz3q) · [GitHub](https://github.com/3S2-HSB/who-made-this)
 
 - Slack 이모지를 몇 번의 클릭만으로 만들 수 있는 웹앱, 본인이 제안한 아이디어로 시작
-- 4시간이라는 짧은 제한 시간 안에 완성해야 해서 Gemini Canvas를 선택해 빠르게 프로토타입 구현
+- 해커톤 당일 4시간이라는 짧은 제한 시간 안에 완성해야 해서 Gemini Canvas를 선택해 빠르게 프로토타입 구현
 - 우아한테크코스 공식 뉴스레터에 3위 수상작으로 소개됨
 
 `Gemini Canvas` / `Rapid Prototyping`
@@ -35,7 +35,7 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 ---
 
 ### #2 반려동물 IoT 모니터링 앱
-> 우아한테크코스 레벨2 팀 프로젝트 · 2026.05.28 – 2026.06.19 (4주)
+> 우아한테크코스 레벨2 팀 프로젝트 · 2026.05.28 – 2026.06.19
 
 - 반려인 인터뷰로 배변 패턴 추적 불편을 확인하는 데서 기획을 시작, 다이소 부품으로 빠르게 프로토타입 검증
 - ESP32 센서가 강아지 행동(소변·대변·올라타기)을 감지해 서버로 전송, 앱에서 실시간 기록 확인
