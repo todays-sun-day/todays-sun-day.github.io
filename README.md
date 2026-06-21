@@ -20,7 +20,7 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Gemini Canvas` / `Rapid Prototyping`
 
-<img width="750" height="407" alt="image" src="https://github.com/user-attachments/assets/367fc3bc-39db-48ce-9aad-dc1ea1d2fef8" />
+<img width="500" alt="who made this 시연" src="https://github.com/user-attachments/assets/367fc3bc-39db-48ce-9aad-dc1ea1d2fef8" />
 
 ---
 
@@ -54,13 +54,9 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Kotlin` / `Compose Multiplatform` / `REST API (Ktor Client, Supabase)` / `MVVM with Repository Pattern`
 
-| 기기 등록 | 홈 화면 | 기록 목록 |
-|---|---|---|
-| <img width="180" height="405" alt="image" src="https://github.com/user-attachments/assets/be86ff42-e82d-4001-be78-5f27f3b29518" /> | <img width="180" height="405" alt="image" src="https://github.com/user-attachments/assets/df6c3fb1-e262-45e0-b884-5b0dba2ca530" /> | <img width="180" height="405" alt="image" src="https://github.com/user-attachments/assets/99a2d338-ff9a-46aa-986b-09ea4b753841" /> |
-
-| 아두이노 기기 시연 | 푸시 알림 |
-| --- | --- |
-| <img width="4000" height="2252" alt="image" src="https://github.com/user-attachments/assets/83076804-f387-4e57-a8df-4e8a7d3ba86e" /> | <img width="1440" height="1041" alt="image" src="https://github.com/user-attachments/assets/99c64a08-4b6e-4f77-ae76-1d34f47d5170" /> |
+| 홈 화면 | 아두이노 기기 시연 |
+| :---: | :---: |
+| <img width="180" alt="홈 화면" src="https://github.com/user-attachments/assets/df6c3fb1-e262-45e0-b884-5b0dba2ca530" /> | <img width="280" alt="아두이노 기기 시연" src="https://github.com/user-attachments/assets/83076804-f387-4e57-a8df-4e8a7d3ba86e" /> |
 
 ---
 
@@ -73,7 +69,7 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Unity` / `C#` / `Blender` / `MadMapper` / `Meshy`
 
-<img width="445" height="330" alt="image" src="https://github.com/user-attachments/assets/d3023566-fda3-44fb-8536-aebcd8032deb" />
+<img width="350" alt="아나모픽 광고 시연" src="https://github.com/user-attachments/assets/d3023566-fda3-44fb-8536-aebcd8032deb" />
 
 ---
 
@@ -87,7 +83,7 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Unity` / `C#` / `UGS` / `Netcode for GameObjects` / `Vivox`
 
-<img width="575" height="330" alt="image" src="https://github.com/user-attachments/assets/b1bbe484-2e41-4fe7-9fbc-deeb9024ae6c" />
+<img width="450" alt="VR 숫자야구 시연" src="https://github.com/user-attachments/assets/b1bbe484-2e41-4fe7-9fbc-deeb9024ae6c" />
 
 ---
 
@@ -100,7 +96,7 @@ Kotlin을 독학하여 위젯 앱을 출시했고, Claude Code와 CodeRabbit 같
 
 `Unity` / `C#` / `PlayFab` / `Object Pooling`
 
-<img width="700" height="325" alt="image" src="https://github.com/user-attachments/assets/7570031f-5d76-4b68-9986-2bf1e7d5886b" />
+<img width="450" alt="오버워치 팬게임 시연" src="https://github.com/user-attachments/assets/7570031f-5d76-4b68-9986-2bf1e7d5886b" />
 
 ---
 
